@@ -1,6 +1,6 @@
 # 🤖 RAG Chatbot (BUET Assistant)
 
-This is a bilingual (English & Bangla) RAG based chatbot built using **Retrieval-Augmented Generation (RAG)** powered by **LangChain** and **Gemini (Google Generative AI)**. The system can answer questions based on local `.txt` files (stored in a `docs` folder), and includes both a **FastAPI backend** and a **Streamlit frontend**.
+This is a bilingual (English & Bangla) chatbot built using **Retrieval-Augmented Generation (RAG)** powered by **LangChain** and **Gemini (Google Generative AI)**. The system can answer questions based on local `.txt` files (stored in a `docs` folder), and includes both a **FastAPI backend** and a **Streamlit frontend**.
 
 ---
 
