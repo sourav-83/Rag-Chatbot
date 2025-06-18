@@ -30,3 +30,7 @@ From the project root:
 ```bash
 streamlit run frontend/frontend.py
 
+```
+<br>This is how it looks:<br>
+</br>
+![Chatbot UI](chatbot_rag.png)
